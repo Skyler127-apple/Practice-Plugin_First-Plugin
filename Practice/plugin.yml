@@ -1,0 +1,9 @@
+main: me.bubini.practice.Main
+name: SkylersPractice
+version: 1.0.0
+author: SkylerSzijjarto
+
+commands:
+  Hello:
+  
+
